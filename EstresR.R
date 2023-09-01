@@ -1,6 +1,9 @@
 library(readxl)
 library(tidyverse)
-ruta_excel <- "C:\\Users\\viciv\\OneDrive\\Documents\\1002-A\\Servicio social\\Trabajos de R\\Estres.xlsx"
+#Primero escojemos la ruta con el siguiente comando
+file.choose()
+#luego en la variable ruta_excel copiamos lo que nos resulto de file.choose
+ruta_excel <- "C:\\Users\\viciv\\OneDrive\\Documents\\1002-A\\Servicio social\\Trabajos de R\\Para git\\Estres.xlsx"
 #importamos la hoja deseada que queremos en este caso es la hoja de las puntuaciones normales
 puntuaciones <- read_excel(ruta_excel,
                            sheet = 'PuntuacionesN')
