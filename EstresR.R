@@ -12,7 +12,7 @@ puntuacionesT <- read_excel(ruta_excel,
                             sheet = 'PuntuacionesTN')
 #Esto es para mostrar los dataframes que se han creado
 puntuaciones
-puntuacionesT
+puntuacionesT 
 #Grupos
 PCIC <- puntuacionesT %>% 
   filter(Grupo == 'PCIC-001' | Grupo == 'PCIC-002' | Grupo == 'PCIC-003')

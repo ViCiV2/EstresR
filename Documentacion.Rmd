@@ -1,0 +1,55 @@
+---
+title: "Ducumentacion detallada"
+author: "Víctor Cisneros Vázquez"
+date: "2023-09-07"
+output: 
+  html_document:
+    toc: true
+    toc_depth: 4
+    toc_float: true
+    collapsed: true
+    smooth_scroll: true
+    theme: journal
+    highlight: kate
+    df_print: paged
+    code_folding: show
+---
+
+# Introducción
+Este documento tiene como objetivo explicar el código fuente de código escrito en lenguaje R que compara información  respecto al perfil de los estudiantes en el ámbito del estrés con el propósito de encontrar patrones de comportamiento en donde dependiendo de la sección que se desee observar permite analizar de forma más profunda dichas características y así determinar el porqué de ciertos comportamientos, con ello tomar decisiones más certeras y ayudar mejor a los estudiantes. 
+Esta documentación ayudará a la continuación del proyecto, por lo que se tratará de explicar el la medida de lo posible como iniciar y ejecutar el proyecto, además de explicar cada funcionalidad del código, sus variables y atributos para ayudar asi a comprender dicho funcionamiento.
+
+# ¿Cómo empezar?
+
+En esta sección, se explican los pasos a seguir, para poner a funcionar el código en nuestro ambiente de desarrollo.
+
+## Requisitos
+
+Hay que tener en cuenta algunos requisitos mínimos para poner en funcionamiento el código.
+
+1. El sistema debe ser capaz de ejecutar código en R con la interfaz RStudio en un procesador X86 (Intel o AMD) con al menos 2 GHz de frecuencia de reloj.
+2. El sistema debe contar con al menos 1 GB de memoria RAM para ejecutar código en R con la interfaz RStudio. Se recomienda que la cantidad mínima de RAM sea de 8 GB para una mejor experiencia.
+3. El sistema debe tener conexión a internet para acceder a los repositorios de R y sus paquetes, así como para consultar documentación o recursos en línea
+4. RStudio requiere como mínimo la versión 2.11.1 de R para poder funcionar, sin embargo es recomendable para el código implementado una versión superior a la 4.2.3 para no perder la compatibilidad con el código y sus respectivas librerías asociadas.
+5. El sistema debe tener espacio suficiente en el disco duro para almacenar el código fuente, los datos y los resultados generados por el código en R con la interfaz RStudio. Se recomienda que el espacio disponible sea al menos el doble del tamaño de los archivos que se vayan a utilizar.
+
+
+Para un mayor entendimiento de los requisitos puede consultar la documentación: Requerimientos de hardware y software R.
+
+Como se ha mencionado anteriormente se necesita instalar el ambiente de desarrollo RStudio, por ello, los requisitos mínimos son extremadamente necesarios para un ambiente de desarrollo fluido y cómodo.
+
+A continuación se presentará como podemos instalar RStudio en nuestro ambiente de desarrollo:
+Debemos de ir a la web oficial para iniciar la descarga, el siguiente link te llevará directamente a dicha web donde podremos descargar la última versión de R: 
+[Download R-4.3.1 for Windows](https://cran.r-project.org/bin/windows/base/)
+
+![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image4.png)
+Damos click donde esta el cuadro anaranjado de la imagen anterior y guardamos el archivo, luego buscamos el archivo donde se haya guardado el archivo y ejecutamos.
+
+![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image31.png)
+
+
+![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image21.png)
+
+
+
+
