@@ -42,13 +42,26 @@ A continuación se presentará como podemos instalar RStudio en nuestro ambiente
 Debemos de ir a la web oficial para iniciar la descarga, el siguiente link te llevará directamente a dicha web donde podremos descargar la última versión de R: 
 [Download R-4.3.1 for Windows](https://cran.r-project.org/bin/windows/base/)
 
-![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image4.png)
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image4.png?raw=true)
+
+
 Damos click donde esta el cuadro anaranjado de la imagen anterior y guardamos el archivo, luego buscamos el archivo donde se haya guardado el archivo y ejecutamos.
 
-![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image31.png)
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image31.png?raw=true)
 
 
-![](\Users\viciv\OneDrive\Documents\1002-A\Servicio social\Trabajos de R\Para git\images\image21.png)
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image21.png?raw=true)
+
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image18.png?raw=true)
+
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image13.png?raw=true)
+
+Dejar todas las opciones marcadas.
+
+![](https://github.com/ViCiV2/EstresR/blob/main/images/image3.png?raw=true)
+
+decimos que no.
+
 
 
 
